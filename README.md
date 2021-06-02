@@ -3,7 +3,7 @@ test for first push<br>
 title: note taker express.js<br>
 student: Justin Villena<br>
 description: note taking applicaton that writes and saves notes <br>
-git hub repo - ttps://github.com/Jrvillena/taker-of-notes<br> 
+git hub repo - https://github.com/Jrvillena/taker-of-notes<br> 
 video link - https://youtu.be/jLkwOLI943w<br>
 generated sample html - http://localhost:3001/notes <br>
 <br>
